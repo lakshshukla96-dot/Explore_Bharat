@@ -1,2 +1,3 @@
 # Explore_Bharat
 Explore Bharat is a responsive tourism website built using HTML, CSS, and JavaScript that showcases India's diverse culture, heritage, and travel destinations with interactive UI and dynamic content.
+Explore Bharat is a front-end web development project designed to promote Indian tourism and culture. The website serves as a digital travel guide that allows users to explore famous destinations, cultural heritage, historical monuments, and cuisines of different states of India.The project is completely built using HTML, CSS, and JavaScript without any frameworks, focusing on clean UI, responsive design, and interactive user experience. It aims to provide a one-stop platform for travelers to get inspired and plan their journey across Bharat.
